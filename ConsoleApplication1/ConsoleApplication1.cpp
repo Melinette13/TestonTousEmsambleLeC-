@@ -8,7 +8,7 @@ int main()
    cout << "Salut ca va ?" << endl;
    string answer;
    cin>> answer;
-   cout << "tres bien" << endl;
+  
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
